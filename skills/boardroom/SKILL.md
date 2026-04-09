@@ -32,7 +32,9 @@ Accept the input in one of three ways:
 
 1. **Direct text**: User provides the question/pitch/challenge as text
 2. **File path**: User points to a document (.md, .txt, .docx, .pdf) -- read it and extract the core question
-3. **Interactive**: If no input provided, ask: "Wat is de vraag, uitdaging, pitch of strategie die je wilt voorleggen aan je raad van advies?"
+3. **Interactive**: If no input provided, ask in the user's language:
+   - Dutch: "Wat is de vraag, uitdaging, pitch of strategie die je wilt voorleggen aan je raad van advies?"
+   - English: "What is the question, challenge, pitch, or strategy you want to put before your board of advisors?"
 
 Determine the output language:
 - If `--lang` flag is provided, use that language
@@ -196,13 +198,13 @@ Use this structure for the saved report:
 - [point]
 
 ### Belangrijke Spanningen
-1. **[Tension]**: [Advisor A] vs. [Advisor B] -- [description]
+1. **[Tension]**: [Advisor A] vs. [Advisor B]: [description]
 
 ### Kritische Vragen
 1. [question]
 
 ### Aanbevolen Vervolgstappen
-1. **[Action]** -- [why] -- Prioriteit: hoog/middel
+1. **[Action]**: [why] | Prioriteit: hoog/middel
 
 ---
 
