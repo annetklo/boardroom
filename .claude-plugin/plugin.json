@@ -1,0 +1,11 @@
+{
+  "name": "boardroom",
+  "version": "1.0.0",
+  "description": "Simulate an AI board of advisors providing multi-perspective feedback on any business question, challenge, pitch, or strategy.",
+  "author": {
+    "name": "Annet Kloprogge",
+    "email": "annet@missionrelearn.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/annetklo/boardroom"
+}

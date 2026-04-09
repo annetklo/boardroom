@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "boardroom",
+  "description": "AI board of advisors plugin by Mission Relearn",
+  "owner": {
+    "name": "Annet Kloprogge",
+    "email": "annet@missionrelearn.com"
+  },
+  "plugins": [
+    {
+      "name": "boardroom",
+      "description": "Simulate an AI board of advisors providing multi-perspective feedback on any business question, challenge, pitch, or strategy.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/annetklo/boardroom"
+    }
+  ]
+}
